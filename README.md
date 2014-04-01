@@ -25,7 +25,7 @@ what strings should be prefixed with.
 | `true`    | `⊤`          | `+`              |
 | `false`   | `⊥`          | `-`              |
 | `null`    | `∅`          | `;`              |
-| string    | `\``         |                  |
+| string    | \`           |                  |
 
 # Similar Project
 
