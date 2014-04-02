@@ -1,0 +1,26 @@
+{
+  "name": "ijson",
+  "version": "0.0.1",
+  "description": "an international flavor of JSON that replaces the english words \"true\", \"false\", \"null\" with symbols",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benatkin/ijson.git"
+  },
+  "keywords": [
+    "json",
+    "international"
+  ],
+  "author": "Ben Atkin <ben@benatkin.com> (http://benatkin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benatkin/ijson/issues"
+  },
+  "homepage": "https://github.com/benatkin/ijson",
+  "devDependencies": {
+    "tape": "^2.12.1"
+  }
+}
